@@ -7,8 +7,6 @@
   <br />
   Welcome!
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael"
-    alt="visitors">
 </h1>
 
 <!--*************** Front cover ***************-->
