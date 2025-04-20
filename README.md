@@ -1,16 +1,80 @@
-## Hi there 👋
+<!--*************** Title ***************-->
+<h1 align="center">
+  Hi there, I'm Philipe
+  <img 
+    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+    width="30px">
+  <br />
+  Welcome to my Profile!!!
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael"
+    alt="visitors">
+</h1>
 
-<!--
-**pdemoch/pdemoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--*************** Front cover ***************-->
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
 
-Here are some ideas to get you started:
+<p>
+  <br />
+  <br />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--*************** Languages ***************-->
+<table>
+  <tr>
+    <td>
+      <a href="README.md">🇺🇸 English | Inglês</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
+    </td>
+  </tr>
+</table>
+
+ ---
+
+<!--*************** Contact ***************-->
+<div>
+  <h3>
+    📬 Connect with me:
+  </h3>
+  <br />
+  <a href="mailto:pdemoch@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
+  </a>
+  <a href="https://www.instagram.com/ph_democh/">
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
+      alt="instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/phdemoch">
+    <img 
+      src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
+      alt="linked-in">
+  </a>
+</div>
+
+<br />
+
+
+<!--*************** About ***************-->
+<h3>🚀 About me...</h3>
+<br />
+<div>
+  <ul>
+    <li>💻 Data Analyst Python/SQL.</li><br/>
+    <li>📌 I live in Catalão-BR.</li><br/>
+    <li>🔭 I'm currently a Data Analyst, passionate about AI technologies and delighted with the power of programming.</li><br/>
+    <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace.</li><br/>
+    <li>📚🎓👨‍🎓 I'm graduated in Systems Analysis and Development.</li><br/>    
+  </ul>
+</div>
+Footer
