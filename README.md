@@ -77,4 +77,3 @@
     <li>📚🎓👨‍🎓 I'm graduated in Systems Analysis and Development.</li><br/>    
   </ul>
 </div>
-Footer
