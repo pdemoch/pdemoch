@@ -1,11 +1,10 @@
 <!--*************** Title ***************-->
 <h1 align="center">
-  Philipe Democh da Silva
+  Welcome
   <img 
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
   <br />
-  Welcome!
   <img 
 </h1>
 
