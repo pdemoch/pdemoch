@@ -57,7 +57,6 @@
     <li>💻 Data Analyst Python/SQL.</li><br/>
     <li>📌 I live in Catalão-BR.</li><br/>
     <li>🔭 I'm currently a Data Analyst, passionate about AI technologies and delighted with the power of programming.</li><br/>
-    <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace.</li><br/>
-    <li>📚🎓👨‍🎓 I'm graduated in Systems Analysis and Development.</li><br/>    
+    <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace.</li><br/>  
   </ul>
 </div>
