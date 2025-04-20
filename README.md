@@ -1,11 +1,11 @@
 <!--*************** Title ***************-->
 <h1 align="center">
-  Hi there, I'm Philipe
+  Philipe Democh da Silva
   <img 
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
   <br />
-  Welcome to my Profile!!!
+  Welcome!
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael"
     alt="visitors">
@@ -54,9 +54,10 @@
 <br />
 <div>
   <ul>
-    <li>💻 Data Analyst Python/SQL.</li><br/>
+    <li>💻 6 years experience as Data Analyst using tools like Python/SQL/Power BI.</li><br/>
+    <li>🎢 Specialized over ETL processes and Data Warehouse development.</li><br/>
     <li>📌 I live in Catalão-BR.</li><br/>
-    <li>🔭 I'm currently a Data Analyst, passionate about AI technologies and delighted with the power of programming.</li><br/>
+    <li>🔭 Passionate about AI technologies and delighted with the power of programming.</li><br/>
     <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace.</li><br/>  
   </ul>
 </div>
