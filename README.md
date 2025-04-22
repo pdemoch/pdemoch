@@ -55,6 +55,6 @@
     <li>🎢 Specialized over ETL processes and Data Warehouse development.</li><br/>
     <li>📌 I live in Catalão-BR.</li><br/>
     <li>🔭 Passionate about AI and Data Enginier technologies.</li><br/>
-    <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace, and studying for Databricks and AWS certification.</li><br/>  
+    <li>🌱 I’m going deeper into AI and Data libraries (soon will be here) like Pyspark, Numpy, Pandas, Seaborn, CrewAi, LangChain and HuggingFace, and studying for Databricks and AWS certification.</li><br/>  
   </ul>
 </div>
