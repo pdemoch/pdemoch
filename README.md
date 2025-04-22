@@ -54,7 +54,7 @@
     <li>💻 6 years experience as Data Analyst using tools like Python/SQL/Power BI.</li><br/>
     <li>🎢 Specialized over ETL processes and Data Warehouse development.</li><br/>
     <li>📌 I live in Catalão-BR.</li><br/>
-    <li>🔭 Passionate about AI technologies and delighted with the power of programming.</li><br/>
-    <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace.</li><br/>  
+    <li>🔭 Passionate about AI and Data Enginier technologies.</li><br/>
+    <li>🌱 I’m going deeper into AI libraries like CrewAi, LangChain and HuggingFace, and studying for Databricks and AWS certification.</li><br/>  
   </ul>
 </div>
