@@ -1,6 +1,5 @@
 <!--*************** Title ***************-->
 <h1 align="center">
-  Welcome
   <img 
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
@@ -24,7 +23,7 @@
 <!--*************** Contact ***************-->
 <div>
   <h3>
-    📬 Connect with me:
+    📬 Para contato:
   </h3>
   <br />
   <a href="mailto:pdemoch@gmail.com">
@@ -47,14 +46,14 @@
 
 
 <!--*************** About ***************-->
-<h3>🚀 About me...</h3>
+<h3>🚀 Sobre mim:</h3>
 <br />
 <div>
   <ul>
-    <li>💻 6 years experience as Data Analyst using tools like Python/SQL/Power BI.</li><br/>
-    <li>🎢 Specialized over ETL processes and Data Warehouse development.</li><br/>
-    <li>📌 I live in Catalão-BR.</li><br/>
-    <li>🔭 Passionate about AI and Data Engineer technologies.</li><br/>
-    <li>🌱 I’m going deeper into AI and Data libraries (soon will be here) like Pyspark, Numpy, Pandas, Seaborn, CrewAi, LangChain and HuggingFace, and studying for Databricks and AWS certification.</li><br/>  
+    <li>💻 6 anos de experiência como analista de dados e analista de BI.</li><br/>
+    <li>🎢 Desenvolvimento de ETLs com multiplas fontes de dados e pipelines cloud com GCP e orquestração por Airflow</li><br/>
+    <li>📌 Moro em Catalão-Goias.</li><br/>
+    <li>🔭 Desenvolvendo habilidades de criação de agentes de IA, LLM, uso de bibliotecas como langchain e huggingface</li><br/>
+    <li>🌱 Conhecimento em Pandas, Seaborn, Streamlit, SQL, Excel, Airflow, Power BI</li><br/>  
   </ul>
 </div>
