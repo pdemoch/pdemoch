@@ -1,12 +1,3 @@
-<!--*************** Title ***************-->
-<h1 align="center">
-  <img 
-    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-    width="30px">
-  <br />
-  <img 
-</h1>
-
 <!--*************** Front cover ***************-->
 <div>
   <img
