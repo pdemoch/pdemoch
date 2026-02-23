@@ -50,10 +50,10 @@
 <br />
 <div>
   <ul>
-    <li>💻 6 anos de experiência como analista de dados e analista de BI.</li><br/>
-    <li>🎢 Desenvolvimento de ETLs com multiplas fontes de dados e pipelines cloud com GCP e orquestração por Airflow</li><br/>
-    <li>📌 Moro em Catalão-Goias.</li><br/>
-    <li>🔭 Desenvolvendo habilidades de criação de agentes de IA, LLM, uso de bibliotecas como langchain e huggingface</li><br/>
-    <li>🌱 Conhecimento em Pandas, Seaborn, Streamlit, SQL, Excel, Airflow, Power BI</li><br/>  
+    <li>💻 6 anos de experiência como analista de dados, analista de BI e Especialista em Supply Chain, entendimento amplo em aplicação de regras de negocio, ver Approval_Flow nos repositorios, da horinha.</li><br/>
+    <li>🎢 Desenvolvimento de ETLs com multiplas fontes de dados, Supabase, oracle, mysql, AWS, GCP, Excel.</li><br/>
+    <li>📌 Moro em Anapolis-Goias.</li><br/>
+    <li>🔭 Desenvolvendo habilidades de criação de agentes de IA, LLM, uso de bibliotecas como langchain e huggingface, tem um repositorio ai PHD_Softwares bem massa com bot de whatsapp usando chatgpt.</li><br/>
+    <li>🌱 Conhecimento em Pandas, Seaborn, Streamlit, Numpy, SQL, Excel, Airflow, Power BI, Excel, Supabase, Postgre, SAP, Protheus.</li><br/>  
   </ul>
 </div>
